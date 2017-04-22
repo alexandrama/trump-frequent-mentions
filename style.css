@@ -1,7 +1,7 @@
 body {
+	background-image: url("https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-master1050-v4.jpg");
 	background-repeat: repeat;
-	background-size: 10%;
-	background-position: right top;
+	background-size: 100px 80px;
 }
 
 #bodytext {
